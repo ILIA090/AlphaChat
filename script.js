@@ -1,5 +1,5 @@
-// آدرس WebSocket سرورت (Render)
-const ws = new WebSocket("wss://YOUR-RENDER-URL/ws");
+// آدرس WebSocket سرورت
+const ws = new WebSocket("wss://alphachat-dd0d.onrender.com");
 
 const messagesDiv = document.getElementById("messages");
 
